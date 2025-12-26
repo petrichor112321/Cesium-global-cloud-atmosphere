@@ -33,11 +33,11 @@ TAA Ray Marching  Achieved global volumetric cloud and atmospheric scattering en
 
 > 上效果
 
-![](./images/cloud1.png)
-![](./images/cloud2.png)
-![](./images/cloud3.png)
-![](./images/cloud4.png)
-![](./images/cloud5.png)
+![](./cloud1.png)
+![](./cloud2.png)
+![](./cloud3.png)
+![](./cloud4.png)
+![](./cloud5.png)
 
 > 视频效果  
 > 显卡：GT 1030  
