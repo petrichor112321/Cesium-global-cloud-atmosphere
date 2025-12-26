@@ -44,7 +44,8 @@ TAA Ray Marching  Achieved global volumetric cloud and atmospheric scattering en
 > 分辨率：0.5  
 > 倍速播放（硬件实在过于垃圾）
 
+[【Cesium大气散射+全球体积云效果】B站视频](https://www.bilibili.com/video/BV1CMBeBbEkc/?share_source=copy_web)
 
 ## 参考项目
-- 不得不说这个作者真的很牛
+- 不得不说这个作者真的很牛,学习了
 - [three-geospatial GitHub]([https://github.com/CesiumGS/cesium](https://github.com/takram-design-engineering/three-geospatial/))
